@@ -28,14 +28,17 @@
 
 #### World
 
-- Auto-Chat
-- Auto-Puzzle
+- Mob Vacuum
+- Auto Loot
+- Auto Treasure
+- Auto Chat
+- Auto Puzzle
 - Cutscene Skip
+- Event Teleport
 - Chest Teleport
 - Quest Teleport
-- Auto-Talk
+- Auto Talk
 - Disable Talk Delay
-- Skip Scenes
 - Dump Enemies
 
 #### Visuals
