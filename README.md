@@ -17,41 +17,36 @@
 
 <h1 align="center">Features</h1>
 
-#### Player
-
-- Noclip
-
 #### Battle
 
-- Unlock Auto-Battle
 - Battle Speed
+- Unlock Auto-Battle
 
 #### World
 
-- Mob Vacuum
-- Auto Loot
-- Auto Treasure
-- Auto Chat
-- Auto Puzzle
-- Cutscene Skip
+- Global Speed
+- Noclip
+- Waypoint Teleport
 - Event Teleport
 - Chest Teleport
-- Quest Teleport
+- Mob Vacuum
+- Chat Settings
+- Talk Settings
+- Cutscene Settings
+- Auto Chat
 - Auto Talk
-- Disable Talk Delay
-- Dump Enemies
+- Auto Puzzle
+- Dumb Enemies
 
 #### Visuals
 
-- UID Editor
 - Hide UI
-- Esp
-- Fov Changer
 - Peeking
+- Uid Changer
+- Fps Indicator
 
 #### Misc
 
-- FPS Indicator
-- FPS Unlocker
-- Load Config
-- Save Config
+- Save\Load\Reset Config
+- Menu Settings
+- Fps Unlock
